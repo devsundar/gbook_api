@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooksApi</string>
+    <string name="book_name"><b>%s</b>/%s</string>
+    <string name="unknown_error">Unknown Error</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">search books</string>
+    <string name="empty_search_result">No results for <b>%s</b></string>
+
+    <string name="retry">Retry</string>
+</resources>
